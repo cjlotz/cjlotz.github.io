@@ -1,0 +1,41 @@
+.post-tags {
+  display: block;
+}
+
+.post-tag {
+  display: inline-block;
+}
+
+.tags-expo {  
+    content:"";
+}
+
+@media (min-width: 38em) {
+  .tags-expo-list {
+    font-size: 0.9rem;
+    }    
+  .post-tag {
+    margin: .2em .3em;    
+  }
+}
+
+.tags-expo-section ul {
+    list-style-type: circle;
+    list-style-position: inside;
+    padding: 0;
+}
+.tags-expo-section li {
+    padding: 0 1rem;
+}
+.tags-expo-section li:hover {
+    list-style-type: disc;
+}
+.tags-expo-section a {
+   color: #268bd2;
+}
+.tags-expo-section .post-date {
+    display: inline-block;
+    font-size: 80%;
+    margin: 0;
+    padding-left: 0.5em;
+}

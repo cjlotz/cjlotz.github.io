@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Messaging Plugin for Xamarin 4
+tags: [xamarin, mobile]
 ---
 
 I've just published an early alpha build of the next major version of the [Messaging Plugin](https://github.com/cjlotz/Xamarin.Plugins) to NuGet.  Visit the [Change Log](https://github.com/cjlotz/Xamarin.Plugins/blob/master/Messaging/ChangeLog.md) to see what's changed.  Here are some highlights:

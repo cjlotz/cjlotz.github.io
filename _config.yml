@@ -6,13 +6,12 @@ highlighter:      rouge
 permalink:           pretty
 
 # Setup
-title:               From the Software Development Trenches
+title:               From the Software Development Trenches Blog
 description:         'Thoughts on Software Development by <a href="https://twitter.com/cjlotz" target="_blank">@cjlotz</a>.'
 url:                 http://hyde.getpoole.com
 baseurl:             /
 
 paginate:            5
-paginate_path:       "page:num"
 
 # About/contact
 author:
@@ -20,10 +19,7 @@ author:
   url:               https://twitter.com/cjlotz
 
 # Custom vars
-version:             2.0.0
-
-#github:
-#  repo:              https://github.com/poole/hyde
+tag_page:           '/tags/'
 
 # Google services
 google_analytics:    UA-94090631-1
