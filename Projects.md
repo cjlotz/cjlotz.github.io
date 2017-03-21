@@ -8,8 +8,9 @@ The last 8-9 years I've been heading up a development team responsible for build
 
 ## Mobile
 
-I love using [Xamarin](www.xamarin.com) and [MvvmCross](https://mvvmcross.com/) to develop high quality, cross-platform mobile solutions using C#.  Some mobile apps, NuGet packages that I created/spearheaded:
+I love using [Xamarin](www.xamarin.com) and [MvvmCross](https://mvvmcross.com/) to develop high quality, cross-platform mobile solutions using C#.  
 
+Some mobile apps and NuGet packages that I created/spearheaded:
 * [HSSE Logger](https://hsse.pragmaworld.net/) - The **H**ealth **S**afety **S**ecurity **E**nvironment Logger allows the quick and easy reporting of incidents, near misses and potential incidents
 
    [![Get it on Google Play](/public/images/google-play-badge.png){:height="35px"}](https://play.google.com/store/apps/details?id=com.pragmaholdings.hsselogger)[![Download on the App Store](/public/images/appstore-badge.svg){:height="35px"}](https://itunes.apple.com/us/app/hsse-logger/id1130801709)
