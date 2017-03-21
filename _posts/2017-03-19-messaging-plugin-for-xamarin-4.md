@@ -3,7 +3,7 @@ layout: post
 title: Messaging Plugin for Xamarin 4
 ---
 
-I've just published a early alpha build of the next major version of the [Messaging Plugin](https://github.com/cjlotz/Xamarin.Plugins) to NuGet.  Visit the [Change Log](https://github.com/cjlotz/Xamarin.Plugins/blob/master/Messaging/ChangeLog.md) to see what's changed.  Here are some highlights:
+I've just published an early alpha build of the next major version of the [Messaging Plugin](https://github.com/cjlotz/Xamarin.Plugins) to NuGet.  Visit the [Change Log](https://github.com/cjlotz/Xamarin.Plugins/blob/master/Messaging/ChangeLog.md) to see what's changed.  Here are some highlights:
 - Add support for sending SMS to multiple recipients
 - Android: Add support for using `FileProvider` to add attachments using content Uri's on Android Nougat and later
 - Android: Add new `EmailMessageBuilder.UseStrictMode` to filter list of apps to only email apps and not other text messaging or social apps. (**Unfortunately adding attachments when using StrictMode does not seem to work, and is therefore currently not supported.**)
