@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Messaging Plugin for Xamarin 3
+comments: false
 tags: [xamarin, mobile]
 ---
 

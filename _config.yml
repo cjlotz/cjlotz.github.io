@@ -21,6 +21,9 @@ author:
 # Custom vars
 tag_page:           '/tags/'
 
+# Disqus
+disqus_short_name:  'cjlotz-github-io' # leave blank if you don't want disqus
+
 # Google services
 google_analytics:    UA-94090631-1
 

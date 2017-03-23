@@ -114,6 +114,15 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.sidebar-photo {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 48em) {
+  .sidebar-photo img {
+    display: none
+  }
+}
 
 /* Container
  *
@@ -257,3 +266,15 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
+/* Brown */
+.theme-base-10 .sidebar {
+  background-color: #162738;
+}
+.theme-base-10 .content .post-title a {
+  color: #162738;
+}
+.theme-base-10 .content a,
+.theme-base-10 .post-tag,
+.theme-base-10 .related-posts li a:hover {
+  color: #159EDC;
+}
