@@ -8,7 +8,7 @@ permalink:           pretty
 # Setup
 title:               From the Software Development Trenches Blog
 description:         'Thoughts on Software Development by <a href="https://twitter.com/cjlotz" target="_blank">@cjlotz</a>.'
-url:                 http://hyde.getpoole.com
+url:                 https://cjlotz.github.io
 baseurl:             /
 
 paginate:            5
