@@ -118,10 +118,17 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
 }
 
+.sidebar-copyright {
+  font-size: 16px;
+}
+
 @media (max-width: 48em) {
   .sidebar-photo img {
     display: none
   }
+  .sidebar-copyright img {
+    display: none
+  }  
 }
 
 /* Container
