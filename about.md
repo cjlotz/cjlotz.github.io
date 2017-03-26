@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi there!  My name is Carel Lotz.  I'm a Christian, husband, father-of-three and work as a Software Architect/Developer.  I love coding and using technology to produce high quality code using agile development methodologies and techniques.  I especially enjoy coding within the object-oriented paradigm and I have a keen interest in the design principles and patterns that exist for developing within the paradigm. 
+Hi there!  My name is Carel Lotz.  I'm a Christian, husband, father-of-three and work as a Software Architect/Developer.  I love coding and using technology to write high quality code using agile development methodologies and techniques.  I especially enjoy coding within the Object-Oriented paradigm and I have a keen interest in OO design principles and patterns. 
 
 I live in the beautiful Cape Town, South Africa.  Besides coding I enjoy endurance sports like mountain biking and love playing guitar/piano/singing in our church band.
 
@@ -16,4 +16,5 @@ You can view more about my work experience from my [Linkedin profile](https://ww
 ## Follow me
 
 - [Twitter](https://twitter.com/cjlotz)
-- [Blog]({{ site.baseurl }}atom.xml)
+- [Github](https://github.com/cjlotz)
+- [Blog]({{ site.baseurl }}feed.xml)

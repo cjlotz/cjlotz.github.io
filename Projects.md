@@ -4,7 +4,7 @@ title: Projects
 categories: [projects]
 ---
 
-The last 8-9 years I've been heading up a development team responsible for building the [On Key Enterprise Asset Management System (EAMS)](http://www.on-key.com/).  We are currently creating the next generation of On Key that will run off .NET Core with a HTML 5/JS web font-end.  
+The last 8-9 years I've been heading up a development team responsible for building [Pragma's](http://www.pragmaworld.net) flagship [On Key Enterprise Asset Management System (EAMS)](http://www.on-key.com/).  We are currently creating the next generation of On Key that will run off .NET Core with a HTML 5/JS web font-end.  
 
 ## Mobile
 
