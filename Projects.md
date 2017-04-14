@@ -25,7 +25,8 @@ Some mobile apps and NuGet packages that I created/spearheaded:
   * Fillable PDF forms
   * Barcode scanning ...
 
-  [![Get it on Google Play]({{ site.baseurl }}public/images/google-play-badge.png){:height="35px"}](https://play.google.com/store/apps/details?id=com.pragmaproducts.workmanager) [iOS currently in Beta testing. Coming soon!]
+  [![Get it on Google Play]({{ site.baseurl }}public/images/google-play-badge.png){:height="35px"}](https://play.google.com/store/apps/details?id=com.pragmaproducts.workmanager)[![Download on the App Store]({{ site.baseurl }}public/images/appstore-badge.svg){:height="35px"}](https://itunes.apple.com/us/app/on-key-work-manager/id1223460234)
+
 
 * [Messaging Plugin](https://github.com/cjlotz/Xamarin.Plugins) - Xamarin plugin that makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms. 
 
