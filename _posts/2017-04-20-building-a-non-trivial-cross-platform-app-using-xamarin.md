@@ -55,6 +55,7 @@ Besides the frameworks/plugins/controls, we use the following NuGet packages:
 - Dependency injection: [Autofac](https://www.nuget.org/packages/Autofac/)
 - REST Api: [RestSharp.Portable](https://www.nuget.org/packages/FubarCoder.RestSharp.Portable.HttpClient/) and [Polly](https://www.nuget.org/packages/Polly/)
 - iOS programmatic layouts: We use [Cirrious.FluentLayout](https://www.nuget.org/packages/Cirrious.FluentLayout/) to programmatically layout our iOS views in code using Autolayout constraints
+- iOS Hamburger/Drawer menu: [SidebarNavigation](https://www.nuget.org/packages/SidebarNavigation/)
 
 ## Testing/Analytics/Crash Reporting ##
 
