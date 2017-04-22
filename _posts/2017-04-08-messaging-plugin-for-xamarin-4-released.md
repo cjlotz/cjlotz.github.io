@@ -2,7 +2,7 @@
 layout: post
 title: Messaging Plugin for Xamarin 4 released
 comments: true
-tags: [xamarin, mobile]
+tags: [xamarin, mobile, plugins, community]
 image: https://raw.githubusercontent.com/cjlotz/Xamarin.Plugins/master/Messaging/Plugin.Messaging.png
 ---
 
