@@ -61,7 +61,7 @@ We first inflate our control and then assign the attribute values from the layou
 
 <script src="https://gist.github.com/cjlotz/53cb761b5e259bd136c1d27ca3a8f6df.js"></script>
 
-### View Events ###
+### Control Events ###
 
 To allow external consumers to be notified of the text being entered, we add a `TextChanged` event to the compound control.
 
