@@ -16,7 +16,18 @@ paginate:            5
 # About/contact
 author:
   name:              Carel Lotz
+  twitter:           cjlotz
   url:               https://twitter.com/cjlotz
+
+twitter:
+  username:          cjlotz
+
+social:
+  name: Carel Lotz
+  links:
+    - https://twitter.com/cjlotz
+    - https://www.linkedin.com/in/carellotz
+    - https://github.com/cjlotz
 
 # Custom vars
 tag_page:           '/tags/'
@@ -27,4 +38,4 @@ disqus_short_name:  'cjlotz-github-io' # leave blank if you don't want disqus
 # Google services
 google_analytics:    UA-94090631-1
 
-gems: [jekyll-paginate, jekyll-gist, jekyll-feed]
+gems: [jekyll-paginate, jekyll-gist, jekyll-feed, jekyll-seo-tag]

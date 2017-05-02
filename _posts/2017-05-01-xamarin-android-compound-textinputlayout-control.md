@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Xamarin Android Compound TextInputLayout Control
+description: Create a custom Xamarin Android Compound TextInputLayout control with support for showing errors
 comments: true
 tags: [xamarin, mobile, community, android]
 ---

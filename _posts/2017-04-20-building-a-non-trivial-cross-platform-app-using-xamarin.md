@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Building a non-trivial cross platform app using Xamarin
+description: Information on libraries/frameworks/packages used to build a moderately complex Xamarin Android and iOS production app
 comments: true
-tags: [xamarin, mobile, community]
+tags: [xamarin, mobile, community, onkey]
 ---
 
 Over the past year or two we've been using Xamarin to build a moderately complex mobile application. [On Key Work Manager](http://www.on-key.com/functionality/mobile-work-manager-app/) is a mobile work order management solution that enables your field service staff to manage their work assignments and forms part of the [On Key Enterprise Asset Management](http://www.on-key.com/) system.  
