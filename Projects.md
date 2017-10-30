@@ -4,7 +4,7 @@ title: Projects
 categories: [projects]
 ---
 
-The last 8-9 years I've been heading up a development team responsible for building [Pragma's](http://www.pragmaworld.net) flagship [On Key Enterprise Asset Management System (EAMS)](http://www.on-key.com/).  We are currently creating the next generation of On Key that will run off .NET Core with a HTML 5/JS web font-end.  
+The last 9 years I've been heading up a development team responsible for building [Pragma's](http://www.pragmaworld.net) flagship [On Key Enterprise Asset Management System (EAMS)](http://www.on-key.com/).  We are currently creating the next generation of On Key that will run off .NET Core with a HTML 5/JS web font-end.  
 
 ## Mobile
 
@@ -25,12 +25,14 @@ Some mobile apps and NuGet packages that I created/spearheaded:
   * Fillable PDF forms
   * Barcode scanning ...
 
+  On Key Work Manager was also featured as a success story on [Xamarin's blog](https://blog.xamarin.com/pragma-delivers-high-performance-apps-field-service-employees-love/)
+
   [![Get it on Google Play]({{ site.baseurl }}public/images/google-play-badge.png){:height="35px"}](https://play.google.com/store/apps/details?id=com.pragmaproducts.workmanager)[![Download on the App Store]({{ site.baseurl }}public/images/appstore-badge.svg){:height="35px"}](https://itunes.apple.com/us/app/on-key-work-manager/id1223460234)
 
 
 * [Messaging Plugin](https://github.com/cjlotz/Xamarin.Plugins) - Xamarin plugin that makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms. 
 
-  Install from [NuGet](https://www.nuget.org/packages/Xam.Plugins.Messaging/) or from the [Xamarin Component Store](https://components.xamarin.com/view/Xam.Plugins.Messaging)
+  Install from [NuGet](https://www.nuget.org/packages/Xam.Plugins.Messaging/)
 
 
 
