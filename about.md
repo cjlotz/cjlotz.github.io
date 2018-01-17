@@ -9,7 +9,7 @@ I live in the beautiful Cape Town, South Africa.  Besides coding I enjoy enduran
 
 ## Work Experience
 
-The [Projects page](/Projects) contains some examples of recent projects that we've successfully delivered/currently involved in.  I currently specialize mostly in the Microsoft .NET technology stack, but started off doing C/C++ development and even did a bit off Smalltalk development early on in my career.
+The [Projects page](/Projects) contains some examples of recent projects that we've successfully delivered/currently involved in.  I currently specialize mostly in the Microsoft .NET technology stack, but started off doing C/C++ development and even did a bit of Smalltalk development early on in my career.
 
 You can view more about my work experience from my [Linkedin profile](https://www.linkedin.com/in/carellotz/).  
 
